@@ -1,4 +1,10 @@
-### Hi there 👋
+### Nice to meets you 👋
+
+💻 I'm self-taught in computer development, feel free to leave advices or comments if you have any.
+
+ ![alt text](https://github-readme-stats.vercel.app/api?username=ClementG91)
+ ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementG91&layout=compact)
+
 
 <!--
 **ClementG91/ClementG91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
