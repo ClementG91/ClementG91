@@ -7,7 +7,7 @@ FullStack Developer
 My passion for new technologies and the desire to take on new challenges led me to switch careers and get involved in IT development.
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [ecorp-dev.com](http://www.ecorp-dev.com/)
+* 🖥️  See my portfolio at [edeveloppe.com](https://www.edeveloppe.com/)
 
 ### Skills
 
