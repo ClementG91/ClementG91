@@ -65,24 +65,8 @@ That means no unnecessary complexity, no trend-driven decisions, and no one-size
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ClementG91&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9&icon_color=A78BFA&ring_color=8B5CF6"
-  alt="GitHub stats"
-/>
-
-<img
-  height="170"
   src="https://github-readme-streak-stats.herokuapp.com/?user=ClementG91&hide_border=true&background=00000000&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E"
   alt="GitHub streak stats"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ClementG91&bg_color=09090B&color=71717A&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&hide_title=true&grid=false&radius=12&height=220&days=31"
-  alt="GitHub activity graph"
 />
 
 </div>
