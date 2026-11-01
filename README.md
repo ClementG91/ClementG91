@@ -1,20 +1,12 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=blur&height=190&section=header&color=0:09090B,45:1E1B4B,72:6D28D9,100:09090B&text=Cl%C3%A9ment%20Genest&fontSize=46&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn&stroke=A78BFA&strokeWidth=1&desc=Freelance%20Full-Stack%20Developer%20%C2%B7%20eDeveloppe&descSize=16&descAlignY=64"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=38&lines=Custom+software+for+businesses+that+need+more+than+a+template;Web+applications+%E2%80%A2+Business+tools+%E2%80%A2+Automation;Performance+%E2%80%A2+Reliability+%E2%80%A2+Maintainability"
-  alt="Typing SVG"
-/>
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg" alt="Clément Genest, freelance full-stack developer. Custom web applications, business tools and automation." />
 
 <br/>
 
 <p align="center">
   <a href="https://www.edeveloppe.com/"><img src="https://img.shields.io/badge/PORTFOLIO-EDEVELOPPE.COM-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/clementgenest/"><img src="https://img.shields.io/badge/LINKEDIN-CL%C3%89MENT_GENEST-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/clementgenest/"><img src="https://img.shields.io/badge/LINKEDIN-CL%C3%89MENT_GENEST-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
 </p>
 
 <sub>France 🇫🇷 · Freelance developer · Founder of eDeveloppe</sub>
@@ -30,18 +22,26 @@ My work covers the full delivery cycle, from **frontend and UX** to **backend, A
 <div align="center">
 
 <img src="https://img.shields.io/badge/WEB_APPS-18181B?style=flat-square&logo=react&logoColor=A78BFA" alt="Web Apps" />
-<img src="https://img.shields.io/badge/BUSINESS_TOOLS-18181B?style=flat-square&logo=windowsterminal&logoColor=A78BFA" alt="Business Tools" />
+<img src="https://img.shields.io/badge/BUSINESS_TOOLS-18181B?style=flat-square&logo=gnometerminal&logoColor=A78BFA" alt="Business Tools" />
 <img src="https://img.shields.io/badge/APIs_%26_INTEGRATIONS-18181B?style=flat-square&logo=fastapi&logoColor=A78BFA" alt="APIs and Integrations" />
 <img src="https://img.shields.io/badge/AUTOMATION-18181B?style=flat-square&logo=n8n&logoColor=A78BFA" alt="Automation" />
 
 </div>
+
+## Selected work
+
+| Project | What it does | Status |
+|---|---|---|
+| [**WinSight**](https://github.com/ClementG91/winsight) | Open-source security suite for Windows: persistence scanner, real-time alerts, per-app outbound firewall, Authenticode verification. Local-only, no telemetry. | [![CI](https://github.com/ClementG91/winsight/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/winsight/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14751/badge)](https://www.bestpractices.dev/projects/14751) |
+| [**MCP-FlowSentinel**](https://github.com/ClementG91/MCP-FlowSentinel) | Local-first MCP server for process-aware network visibility, PCAP analysis and explainable threat detection, written in Go. | [![CI](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14746/badge)](https://www.bestpractices.dev/projects/14746) |
+| [**claude-flow**](https://github.com/ClementG91/claude-flow) | Visual workflow manager for Claude Desktop scheduled tasks, with n8n-style orchestration. | [![Stars](https://img.shields.io/github/stars/ClementG91/claude-flow?style=flat&color=6D28D9)](https://github.com/ClementG91/claude-flow) |
 
 ## Core stack
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,postgres,prisma,redis,python,go,rust,docker,linux&theme=dark&perline=7"
+  src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,postgres,prisma,python,go,cs,docker,linux&theme=dark&perline=7"
   alt="Core stack"
 />
 

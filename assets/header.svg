@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+<title id="t">Clément Genest, freelance full-stack developer</title>
+<desc id="d">Custom web applications, business tools and automation, from interface to systems. Founder of eDeveloppe, France.</desc>
+<style>
+@font-face{font-family:SG;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAScAA8AAAAACSwAAARCAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbggIcKgZgP1NUQVQqAGQRCAqFZIRuATYCJAMwCxoABCAFhCQHIBuTB1FUUb6QfXGQDRlY05fodaXWsPZW2xiekbq8bE7J27oQUcpPWjHwMfj/Wus993UPdX9gLg9BUJEk7Ndsd3UQy0evjJBA5ZFk5v/m9m83JA0ij7Q4RyJLuOepH1YqMdMKldch/uu27zqCKKIs8EDKsygKAvAkoWb+0Li8twfacU4SqhTZ/wC/fi8uTVMqXizcC3i0AkWs1U1tVMt47RqhTMAy0Vjy1Irw++MD0gNjBt1NDtTZXYlAHQAwYgoiEIzpoubJ6gTMrpEYGB5QlgS0WXkMVSAgnsmZYARSxwNpgUhBihqUDTTY9JbJAABQ/gAP/WsJfF3Kf4TKbxlsfycRAKs5LxmgiZMmCtZBewOH5POqEzhiA/Av+9ZvcxLY3dwAOJEdoxW6EcRXdu7AwwsA9wz5utf/78CfSAhAAH1WA0MwkZxAGwT6UIfjEgQAI4C61QAYcKANJtCGdhbQpA6DIUNTlhjxLXUooeJ363U1d1132TCI/zhR0QigDkAXIIDP8FVoGAzA0hyj4J0LjVM9GfzUBFOSBvevuJD2LmP1HIL2LkLlDHbPY/VSiuyeTfXSnZEDmg2qtygXrg1vLTHQ4gtA3f3Rxx72OrcdPffA9ZyEylFMoo8uEm8exur+PG7oUBcsuL0FM72UmxbAJXKeXHbLpYqLc67d89uxOgvJn1ER2bg4uVN22alnR7zlFMibVhZePz8Gu2f1lRO5oKhIJNguDscFV5yTJaGgta60vzT+toL8qqpMZAFWx8jW1MTW2WLY3NbFxNTITptaQMysqgKKBLMkPaMsj2WKZcnwArTw64nsT3AzM9O31MD2xomFZBhS/e6vwSTBIk5HJ8EGb6OdEKtjYR6pp5lgJRlONdVVUubeDVG+tnKVmNN50liVVxwFJnM5c8DkK0uFujW2rPwNlXStLmMhImWjZZKjLd4mIvmgKJwb3D+qT53WlzHUcFGS9dIRy+FRC1XU0LUy/gc0gn+mI946kTsABfqlelistMkxdWcBbXmLSBs3x2hzXJJgMklIyI3JlsIYS/fgs1KyiXMC8OU9RbassKyOnI6ysDIoD5dfGBAVNW+sCW8kxCZokImegiHAQv2yTpsjYDj/q24Xalp/c+c+ALy7NXId4H39yimaiOrabAeddgIIv8rnngkUe0B8e93gqQv+YJeV1hKJ64MSLIcHF3ILa8Uzky16zB8CTEGgzizKOHzUw4xAYQOmXgDPoGLIhA/D5D4xnFU/hrcUOUaiJ3701FwyBAR1eeL0R1x7QCL1kvM4XASrqx3FWKcO2mo/SmkMzDmVS5BYITDYHdpHDCTWd8vsbjeWKxDCcWNEyh7b09Li8BCuG53CkIi02MLlJzyaWECz1XiFPUZQXK4qc5bnHwarL50fSIRMXYp2cFg1saRu7WXdDGQ4hmuA5YkL6wuIJ5liLx7fhZkrCwUwX195qxUAAA==) format("woff2")}
+@font-face{font-family:JB;font-weight:400;src:url(data:font/woff2;base64,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) format("woff2")}
+@font-face{font-family:JB;font-weight:500;src:url(data:font/woff2;base64,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) format("woff2")}
+.mono{font-family:JB,ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+.med{font-weight:500}
+.name{font-family:SG,"Segoe UI",-apple-system,Helvetica,Arial,sans-serif;font-weight:700}
+.lit,.ring{opacity:0}
+.plate,.lab{animation:rise .8s cubic-bezier(.2,.8,.2,1) var(--i) both}
+.bob{animation:bob 7s ease-in-out var(--b) infinite}
+.lit{animation:lit 7.2s ease-out calc(1.4s + var(--d)) infinite}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 7.2s ease-out calc(1.4s + var(--d)) infinite}
+.nameclip{animation:sweep 1.1s cubic-bezier(.65,0,.2,1) .15s both}
+.scan{animation:scan 1.1s cubic-bezier(.65,0,.2,1) .15s both}
+.fade1{animation:up .7s ease-out .75s both}
+.rule{transform-box:fill-box;transform-origin:left;animation:draw .9s ease-out .95s both}
+.fade2{animation:up .7s ease-out 1.2s both}
+.chrome{animation:fade 1s ease-out .1s both}
+.beam{stroke-dasharray:70 500;animation:beam 7.2s linear 1.4s infinite both}
+.perim{stroke-dasharray:90 780;animation:perim 9s linear infinite}
+.perim2{stroke-dasharray:3 9;animation:perim2 40s linear infinite}
+.aura{transform-box:fill-box;transform-origin:center;animation:aura 11s ease-in-out infinite}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes bob{0%,100%{transform:none}50%{transform:translateY(-3px)}}
+@keyframes lit{0%{opacity:0}5%{opacity:1}24%,100%{opacity:0}}
+@keyframes ring{0%{opacity:.9;transform:scale(.25)}17%,100%{opacity:0;transform:scale(1.06)}}
+@keyframes sweep{from{transform:translateX(-660px)}to{transform:none}}
+@keyframes scan{0%{opacity:0;transform:translateX(-640px)}12%,85%{opacity:1}100%{opacity:0;transform:none}}
+@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes draw{from{transform:scaleX(0)}to{transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes beam{from{stroke-dashoffset:70}66%,to{stroke-dashoffset:-400}}
+@keyframes perim{to{stroke-dashoffset:-870}}
+@keyframes perim2{to{stroke-dashoffset:-600}}
+@keyframes aura{0%,100%{opacity:.7;transform:scale(1)}50%{opacity:1;transform:scale(1.08)}}
+
+.line0{animation:v0 15s linear 1.5s infinite both}
+.clip0{animation:t0 15s 1.5s infinite both}
+.cur0{animation:k0 15s 1.5s infinite both}
+@keyframes v0{0%,0.00%{opacity:0}0.01%,33.32%{opacity:1}33.33%,100%{opacity:0}}
+@keyframes t0{0%,0.40%{transform:translateX(var(--w));animation-timing-function:steps(37)}9.00%,28.33%{transform:none;animation-timing-function:steps(18)}31.83%,100%{transform:translateX(var(--w))}}
+@keyframes k0{0%,0.40%{transform:none;animation-timing-function:steps(37)}9.00%,28.33%{transform:translateX(var(--w));animation-timing-function:steps(18)}31.83%,100%{transform:none}}
+.line1{animation:v1 15s linear 1.5s infinite both}
+.clip1{animation:t1 15s 1.5s infinite both}
+.cur1{animation:k1 15s 1.5s infinite both}
+@keyframes v1{0%,33.33%{opacity:0}33.34%,66.66%{opacity:1}66.67%,100%{opacity:0}}
+@keyframes t1{0%,33.73%{transform:translateX(var(--w));animation-timing-function:steps(46)}42.33%,61.67%{transform:none;animation-timing-function:steps(23)}65.17%,100%{transform:translateX(var(--w))}}
+@keyframes k1{0%,33.73%{transform:none;animation-timing-function:steps(46)}42.33%,61.67%{transform:translateX(var(--w));animation-timing-function:steps(23)}65.17%,100%{transform:none}}
+.line2{animation:v2 15s linear 1.5s infinite both}
+.clip2{animation:t2 15s 1.5s infinite both}
+.cur2{animation:k2 15s 1.5s infinite both}
+@keyframes v2{0%,66.67%{opacity:0}66.68%,99.99%{opacity:1}100.00%,100%{opacity:0}}
+@keyframes t2{0%,67.07%{transform:translateX(var(--w));animation-timing-function:steps(43)}75.67%,95.00%{transform:none;animation-timing-function:steps(21)}98.50%,100%{transform:translateX(var(--w))}}
+@keyframes k2{0%,67.07%{transform:none;animation-timing-function:steps(43)}75.67%,95.00%{transform:translateX(var(--w));animation-timing-function:steps(21)}98.50%,100%{transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.line1,.line2,.scan{opacity:0}.cur0{transform:translateX(421.8px)}}
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#09090B"/><stop offset=".6" stop-color="#0C0A16"/><stop offset="1" stop-color="#120C24"/></linearGradient>
+  <radialGradient id="a1"><stop offset="0" stop-color="#6D28D9" stop-opacity=".34"/><stop offset="1" stop-color="#6D28D9" stop-opacity="0"/></radialGradient>
+  <radialGradient id="a2"><stop offset="0" stop-color="#7C3AED" stop-opacity=".30"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".65" stop-color="#EDE9FE"/><stop offset="1" stop-color="#B9A7FB"/></linearGradient>
+  <linearGradient id="face" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#231C3F"/><stop offset="1" stop-color="#15112A"/></linearGradient>
+  <linearGradient id="rl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+  <linearGradient id="bm" gradientUnits="userSpaceOnUse" x1="0" y1="84" x2="0" y2="276"><stop offset="0" stop-color="#DDD6FE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#FFFFFF" fill-opacity=".055"/></pattern>
+  <clipPath id="frame"><rect width="1280" height="360" rx="16"/></clipPath>
+  <clipPath id="nc"><rect class="nameclip" x="50" y="70" width="660" height="100"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#dots)"/>
+  <ellipse class="aura" cx="210" cy="60" rx="430" ry="230" fill="url(#a1)"/>
+  <ellipse class="aura" cx="822" cy="210" rx="330" ry="210" fill="url(#a2)" style="animation-delay:-5s"/>
+
+  <g class="chrome mono" font-size="15.5" fill="#8A8799">
+    <text x="64" y="44">edeveloppe.com</text>
+    <text x="1216" y="44" text-anchor="end">France · Freelance</text>
+  </g>
+
+  <text clip-path="url(#nc)" x="62" y="148" class="name" font-size="74" letter-spacing="-1.6" fill="url(#nm)">Clément Genest</text>
+  <rect class="scan" x="700" y="84" width="2.5" height="80" fill="#C4B5FD"/>
+
+  <text class="fade1 mono med" x="65" y="192" font-size="20" letter-spacing="4.2" fill="#A78BFA">FULL-STACK DEVELOPER</text>
+  <rect class="rule" x="65" y="210" width="430" height="1.5" fill="url(#rl)"/>
+
+  <g class="fade2">
+    <text x="65" y="252" class="mono" font-size="19" fill="#8B5CF6">›</text>
+    
+    <clipPath id="c0"><rect class="clip0" x="90" y="232" width="423.8" height="28" style="--w:-423.8px"/></clipPath>
+    <g class="line0">
+      <text clip-path="url(#c0)" x="90" y="252" class="mono" font-size="19" fill="#C9C6D8" textLength="421.8" lengthAdjust="spacing">Custom software, more than a template</text>
+      <rect class="cur0" x="92" y="236" width="10" height="20" fill="#A78BFA" style="--w:421.8px"/>
+    </g>
+    <clipPath id="c1"><rect class="clip1" x="90" y="232" width="526.4" height="28" style="--w:-526.4px"/></clipPath>
+    <g class="line1">
+      <text clip-path="url(#c1)" x="90" y="252" class="mono" font-size="19" fill="#C9C6D8" textLength="524.4" lengthAdjust="spacing">Web applications · Business tools · Automation</text>
+      <rect class="cur1" x="92" y="236" width="10" height="20" fill="#A78BFA" style="--w:524.4px"/>
+    </g>
+    <clipPath id="c2"><rect class="clip2" x="90" y="232" width="492.2" height="28" style="--w:-492.2px"/></clipPath>
+    <g class="line2">
+      <text clip-path="url(#c2)" x="90" y="252" class="mono" font-size="19" fill="#C9C6D8" textLength="490.2" lengthAdjust="spacing">Performance · Reliability · Maintainability</text>
+      <rect class="cur2" x="92" y="236" width="10" height="20" fill="#A78BFA" style="--w:490.2px"/>
+    </g>
+  </g>
+
+  <g class="chrome mono" font-size="15.5">
+    <text x="64" y="326" fill="#8A8799">open source<tspan dx="12" fill="#B9B5CC">winsight · mcp-flowsentinel</tspan></text>
+  </g>
+
+  <ellipse class="perim2" cx="822" cy="280" rx="136" ry="60" fill="none" stroke="#5B5285" stroke-width="1.2"/>
+  <ellipse class="perim" cx="822" cy="280" rx="136" ry="60" fill="none" stroke="#C4B5FD" stroke-width="2.2" stroke-linecap="round" pathLength="870"/>
+  
+  <g class="plate" style="--d:4.05s;--b:-4.5s;--i:0.92s">
+    <g class="bob">
+      <path d="M726 276L822 324V335L726 287Z" fill="#0D0A18" stroke="#2C2645"/>
+      <path d="M918 276L822 324V335L918 287Z" fill="#120E22" stroke="#2C2645"/>
+      <path d="M822 228L918 276L822 324L726 276Z" fill="url(#face)" stroke="#4B4470" stroke-width="1.2"/>
+      <path class="lit" d="M822 228L918 276L822 324L726 276Z" fill="#7C3AED" fill-opacity=".30" stroke="#C4B5FD" stroke-width="1.6"/>
+      <g transform="matrix(0.96 0.48 -0.96 0.48 822 228)" fill="none" stroke="#8B7FD0" stroke-width="1.1" stroke-opacity=".75"><rect x="30" y="30" width="40" height="40" rx="3"/><path d="M40 30V14M50 30V14M60 30V14M40 70V86M50 70V86M60 70V86M30 40H14M30 50H14M30 60H14M70 40H86M70 50H86M70 60H86"/></g>
+      <ellipse class="ring" cx="822" cy="276" rx="69" ry="35" fill="none" stroke="#DDD6FE" stroke-width="1.6"/>
+    </g>
+  </g>
+  <g class="plate" style="--d:2.7s;--b:-3.0s;--i:0.78s">
+    <g class="bob">
+      <path d="M726 212L822 260V271L726 223Z" fill="#0D0A18" stroke="#2C2645"/>
+      <path d="M918 212L822 260V271L918 223Z" fill="#120E22" stroke="#2C2645"/>
+      <path d="M822 164L918 212L822 260L726 212Z" fill="url(#face)" stroke="#4B4470" stroke-width="1.2"/>
+      <path class="lit" d="M822 164L918 212L822 260L726 212Z" fill="#7C3AED" fill-opacity=".30" stroke="#C4B5FD" stroke-width="1.6"/>
+      <g transform="matrix(0.96 0.48 -0.96 0.48 822 164)" fill="none" stroke="#8B7FD0" stroke-width="1.1" stroke-opacity=".75"><rect x="16" y="20" width="68" height="14" rx="2"/><rect x="16" y="43" width="68" height="14" rx="2"/><rect x="16" y="66" width="68" height="14" rx="2"/></g>
+      <ellipse class="ring" cx="822" cy="212" rx="69" ry="35" fill="none" stroke="#DDD6FE" stroke-width="1.6"/>
+    </g>
+  </g>
+  <g class="plate" style="--d:1.35s;--b:-1.5s;--i:0.64s">
+    <g class="bob">
+      <path d="M726 148L822 196V207L726 159Z" fill="#0D0A18" stroke="#2C2645"/>
+      <path d="M918 148L822 196V207L918 159Z" fill="#120E22" stroke="#2C2645"/>
+      <path d="M822 100L918 148L822 196L726 148Z" fill="url(#face)" stroke="#4B4470" stroke-width="1.2"/>
+      <path class="lit" d="M822 100L918 148L822 196L726 148Z" fill="#7C3AED" fill-opacity=".30" stroke="#C4B5FD" stroke-width="1.6"/>
+      <g transform="matrix(0.96 0.48 -0.96 0.48 822 100)" fill="none" stroke="#8B7FD0" stroke-width="1.1" stroke-opacity=".75"><path d="M28 28L72 28L72 72L28 72ZM28 28L72 72"/><circle cx="28" cy="28" r="6"/><circle cx="72" cy="28" r="6"/><circle cx="72" cy="72" r="6"/><circle cx="28" cy="72" r="6"/></g>
+      <ellipse class="ring" cx="822" cy="148" rx="69" ry="35" fill="none" stroke="#DDD6FE" stroke-width="1.6"/>
+    </g>
+  </g>
+  <g class="plate" style="--d:0.0s;--b:-0.0s;--i:0.50s">
+    <g class="bob">
+      <path d="M726 84L822 132V143L726 95Z" fill="#0D0A18" stroke="#2C2645"/>
+      <path d="M918 84L822 132V143L918 95Z" fill="#120E22" stroke="#2C2645"/>
+      <path d="M822 36L918 84L822 132L726 84Z" fill="url(#face)" stroke="#4B4470" stroke-width="1.2"/>
+      <path class="lit" d="M822 36L918 84L822 132L726 84Z" fill="#7C3AED" fill-opacity=".30" stroke="#C4B5FD" stroke-width="1.6"/>
+      <g transform="matrix(0.96 0.48 -0.96 0.48 822 36)" fill="none" stroke="#8B7FD0" stroke-width="1.1" stroke-opacity=".75"><rect x="16" y="16" width="68" height="68" rx="3"/><path d="M16 30H84M28 42H70M28 54H56M28 66H64"/></g>
+      <ellipse class="ring" cx="822" cy="84" rx="69" ry="35" fill="none" stroke="#DDD6FE" stroke-width="1.6"/>
+    </g>
+  </g>
+  <path class="beam" d="M822 84V276" stroke="url(#bm)" stroke-width="2.6" stroke-linecap="round" fill="none" pathLength="400"/>
+  
+  <g class="lab" style="--d:0.0s;--i:0.70s">
+    <path d="M924 84H960" stroke="#4B4470"/>
+    <circle cx="924" cy="84" r="2.6" fill="#8B5CF6"/>
+    <text x="970" y="81" class="mono med" font-size="17" fill="#E4E0FB" letter-spacing=".6">interface</text>
+    <text x="970" y="103" class="mono" font-size="15.5" fill="#9C98B3">React · Next.js · Tailwind</text>
+  </g>
+  <g class="lab" style="--d:1.35s;--i:0.84s">
+    <path d="M924 148H960" stroke="#4B4470"/>
+    <circle cx="924" cy="148" r="2.6" fill="#8B5CF6"/>
+    <text x="970" y="145" class="mono med" font-size="17" fill="#E4E0FB" letter-spacing=".6">services</text>
+    <text x="970" y="167" class="mono" font-size="15.5" fill="#9C98B3">Node · Go · Python</text>
+  </g>
+  <g class="lab" style="--d:2.7s;--i:0.98s">
+    <path d="M924 212H960" stroke="#4B4470"/>
+    <circle cx="924" cy="212" r="2.6" fill="#8B5CF6"/>
+    <text x="970" y="209" class="mono med" font-size="17" fill="#E4E0FB" letter-spacing=".6">data</text>
+    <text x="970" y="231" class="mono" font-size="15.5" fill="#9C98B3">PostgreSQL · Prisma</text>
+  </g>
+  <g class="lab" style="--d:4.05s;--i:1.12s">
+    <path d="M924 276H960" stroke="#4B4470"/>
+    <circle cx="924" cy="276" r="2.6" fill="#8B5CF6"/>
+    <text x="970" y="273" class="mono med" font-size="17" fill="#E4E0FB" letter-spacing=".6">systems</text>
+    <text x="970" y="295" class="mono" font-size="15.5" fill="#9C98B3">C# · Docker · Linux</text>
+  </g>
+</g>
+</svg>
