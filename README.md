@@ -28,6 +28,13 @@ My work covers the full delivery cycle, from **frontend and UX** to **backend, A
 
 </div>
 
+## Selected work
+
+| Project | What it does | Status |
+|---|---|---|
+| [**WinSight**](https://github.com/ClementG91/winsight) | Open-source security suite for Windows: persistence scanner, real-time alerts, per-app outbound firewall, Authenticode verification. Local-only, no telemetry. | [![CI](https://github.com/ClementG91/winsight/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/winsight/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14751/badge)](https://www.bestpractices.dev/projects/14751) |
+| [**MCP-FlowSentinel**](https://github.com/ClementG91/MCP-FlowSentinel) | Local-first MCP server for process-aware network visibility, PCAP analysis and explainable threat detection, written in Go. | [![CI](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14746/badge)](https://www.bestpractices.dev/projects/14746) |
+
 ## Core stack
 
 <div align="center">
