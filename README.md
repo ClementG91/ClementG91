@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg" alt="Clément Genest, freelance full-stack developer. A request travels through interface, services, data and systems layers." />
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg?v=3" alt="Clément Genest, freelance full-stack developer. A request travels through interface, services, data and systems layers." />
 
 <br/>
 
@@ -85,11 +85,7 @@ That means no unnecessary complexity, no trend-driven decisions, and no one-size
 
 ## Let’s work together
 
-You talk directly to me, from the first conversation to delivery. We define the steps together and validate each one before moving on.
-
-| 1. Scoping | 2. Design | 3. Development | 4. Delivery |
-|---|---|---|---|
-| We identify your users, your processes and the priority features. | I design the user flows, the interfaces and the architecture. | Features and connections to your tools are built and tested. | I support you through deployment and handover. |
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/method.svg?v=1" alt="How we work together, from first conversation to delivery, with one point of contact. 1. Scoping: we identify your users, your processes and the priority features. 2. Design: I design the user flows, the interfaces and the architecture. 3. Development: features and connections to your tools are built and tested. 4. Delivery: I support you through deployment and handover. Each step is validated before the next." />
 
 **Free first conversation** · **No commitment** · **Clear scope in the quote** · **Reply within 24 business hours** · [Money-back guarantee on eligible services](https://www.edeveloppe.com/site-web-satisfait-ou-rembourse)
 
