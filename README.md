@@ -90,15 +90,3 @@ That means no unnecessary complexity, no trend-driven decisions, and no one-size
 **Free first conversation** · **No commitment** · **Clear scope in the quote** · **Reply within 24 business hours** · [Money-back guarantee on eligible services](https://www.edeveloppe.com/site-web-satisfait-ou-rembourse)
 
 [Tell me about your project](https://www.edeveloppe.com/contact) or write to [contact@edeveloppe.com](mailto:contact@edeveloppe.com).
-
-<div align="center">
-
-<a href="https://www.edeveloppe.com/">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=soft&height=105&color=0:18181B,100:6D28D9&text=Have%20a%20project%20in%20mind%3F&fontSize=27&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn&desc=Visit%20edeveloppe.com%20%E2%86%92&descSize=14&descAlignY=69"
-    alt="Have a project in mind?"
-  />
-</a>
-
-</div>
