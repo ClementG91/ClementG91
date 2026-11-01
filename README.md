@@ -28,20 +28,12 @@ My work covers the full delivery cycle, from **frontend and UX** to **backend, A
 
 </div>
 
-## Selected work
-
-| Project | What it does | Status |
-|---|---|---|
-| [**WinSight**](https://github.com/ClementG91/winsight) | Open-source security suite for Windows: persistence scanner, real-time alerts, per-app outbound firewall, Authenticode verification. Local-only, no telemetry. | [![CI](https://github.com/ClementG91/winsight/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/winsight/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14751/badge)](https://www.bestpractices.dev/projects/14751) |
-| [**MCP-FlowSentinel**](https://github.com/ClementG91/MCP-FlowSentinel) | Local-first MCP server for process-aware network visibility, PCAP analysis and explainable threat detection, written in Go. | [![CI](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14746/badge)](https://www.bestpractices.dev/projects/14746) |
-| [**claude-flow**](https://github.com/ClementG91/claude-flow) | Visual workflow manager for Claude Desktop scheduled tasks, with n8n-style orchestration. | [![Stars](https://img.shields.io/github/stars/ClementG91/claude-flow?style=flat&color=6D28D9)](https://github.com/ClementG91/claude-flow) |
-
 ## Core stack
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,postgres,prisma,python,go,cs,docker,linux&theme=dark&perline=7"
+  src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,postgres,prisma,redis,python,go,rust,cs,docker,linux&theme=dark&perline=7"
   alt="Core stack"
 />
 
@@ -86,7 +78,15 @@ That means no unnecessary complexity, no trend-driven decisions, and no one-size
 
 ## Let’s work together
 
-If you're looking for a developer who can handle both the **product side** and the **technical execution** of a project, feel free to reach out.
+You talk directly to me, from the first conversation to delivery. We define the steps together and validate each one before moving on.
+
+| 1. Scoping | 2. Design | 3. Development | 4. Delivery |
+|---|---|---|---|
+| We identify your users, your processes and the priority features. | I design the user flows, the interfaces and the architecture. | Features and connections to your tools are built and tested. | I support you through deployment and handover. |
+
+**Free first conversation** · **No commitment** · **Clear scope in the quote** · **Reply within 24 business hours** · [Money-back guarantee on eligible services](https://www.edeveloppe.com/site-web-satisfait-ou-rembourse)
+
+[Tell me about your project](https://www.edeveloppe.com/contact) or write to [contact@edeveloppe.com](mailto:contact@edeveloppe.com).
 
 <div align="center">
 
