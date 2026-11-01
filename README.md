@@ -2,84 +2,48 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg?v=3" alt="Clément Genest, freelance full-stack developer. A request travels through interface, services, data and systems layers." />
 
-<br/>
-
-<p align="center">
-  <a href="https://www.edeveloppe.com/"><img src="https://img.shields.io/badge/PORTFOLIO-EDEVELOPPE.COM-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/clementgenest/"><img src="https://img.shields.io/badge/LINKEDIN-CL%C3%89MENT_GENEST-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
-</p>
-
-<sub>France 🇫🇷 · Freelance developer · Founder of eDeveloppe</sub>
+<a href="https://www.edeveloppe.com/"><img src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/btn-portfolio.svg?v=1" height="46" alt="Portfolio: edeveloppe.com" /></a>
+<a href="https://www.linkedin.com/in/clementgenest/"><img src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/btn-linkedin.svg?v=1" height="46" alt="LinkedIn" /></a>
 
 </div>
 
 ## What I do
 
-I help businesses turn ideas and operational needs into **custom, reliable software**.
+As a freelance developer and the founder of eDeveloppe, I help businesses turn ideas and operational needs into **custom, reliable software**.
 
 My work covers the full delivery cycle, from **frontend and UX** to **backend, APIs, data, automation and deployment**, with a strong focus on **performance, security and long-term maintainability**.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/WEB_APPS-18181B?style=flat-square&logo=react&logoColor=A78BFA" alt="Web Apps" />
-<img src="https://img.shields.io/badge/BUSINESS_TOOLS-18181B?style=flat-square&logo=gnometerminal&logoColor=A78BFA" alt="Business Tools" />
-<img src="https://img.shields.io/badge/APIs_%26_INTEGRATIONS-18181B?style=flat-square&logo=fastapi&logoColor=A78BFA" alt="APIs and Integrations" />
-<img src="https://img.shields.io/badge/AUTOMATION-18181B?style=flat-square&logo=n8n&logoColor=A78BFA" alt="Automation" />
-
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-do.svg?v=1" alt="Web apps, business tools, APIs and integrations, automation" />
 </div>
-
-## Selected work
-
-| Project | What it does | Status |
-|---|---|---|
-| [**WinSight**](https://github.com/ClementG91/winsight) | Open-source security suite for Windows: persistence scanner, real-time alerts, per-app outbound firewall, Authenticode verification. Local-only, no telemetry. | [![CI](https://github.com/ClementG91/winsight/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/winsight/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14751/badge)](https://www.bestpractices.dev/projects/14751) |
-| [**MCP-FlowSentinel**](https://github.com/ClementG91/MCP-FlowSentinel) | Local-first MCP server for process-aware network visibility, PCAP analysis and explainable threat detection, written in Go. | [![CI](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/ClementG91/MCP-FlowSentinel/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14746/badge)](https://www.bestpractices.dev/projects/14746) |
 
 ## Core stack
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,postgres,prisma,redis,python,go,rust,cs,docker,linux&theme=dark&perline=7"
-  alt="Core stack"
-/>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,postgres,prisma,redis,python,go,rust,cs,docker,linux,vercel&theme=dark&perline=8" alt="TypeScript, Next.js, React, Tailwind, Node.js, NestJS, PostgreSQL, Prisma, Redis, Python, Go, Rust, C#, Docker, Linux, Vercel" />
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-focus.svg?v=1" alt="Technical focus: performance, backend engineering, software architecture, cybersecurity, systems, Web3" />
 
 </div>
 
 ## How I work
 
-<div align="center">
-
-`Business-first thinking` · `Direct collaboration` · `Clear scope` · `Custom development` · `Maintainable code`
-
-</div>
-
 I prefer understanding the real need first, then choosing the right architecture and tools around it.
 
 That means no unnecessary complexity, no trend-driven decisions, and no one-size-fits-all solutions.
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-work.svg?v=1" alt="Business-first thinking, direct collaboration, clear scope, custom development, maintainable code" />
+</div>
 
 ## GitHub insights
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ClementG91&hide_border=true&background=00000000&stroke=30363D&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B949E"
-  alt="GitHub streak stats"
-/>
-
-</div>
-
-## Selected technical focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Performance-18181B?style=flat-square&logo=speedtest&logoColor=A78BFA" alt="Performance" />
-<img src="https://img.shields.io/badge/Backend_Engineering-18181B?style=flat-square&logo=serverfault&logoColor=A78BFA" alt="Backend Engineering" />
-<img src="https://img.shields.io/badge/Software_Architecture-18181B?style=flat-square&logo=diagramsdotnet&logoColor=A78BFA" alt="Software Architecture" />
-<img src="https://img.shields.io/badge/Cybersecurity-18181B?style=flat-square&logo=hackthebox&logoColor=A78BFA" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Systems-18181B?style=flat-square&logo=linux&logoColor=A78BFA" alt="Systems" />
-<img src="https://img.shields.io/badge/Web3-18181B?style=flat-square&logo=ethereum&logoColor=A78BFA" alt="Web3" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ClementG91&hide_border=true&border_radius=14&background=0E0B1D&stroke=3E3566&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9C98B3" alt="GitHub streak stats" />
 
 </div>
 
