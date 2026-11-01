@@ -2,8 +2,8 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg?v=3" alt="Clément Genest, freelance full-stack developer. A request travels through interface, services, data and systems layers." />
 
-<a href="https://www.edeveloppe.com/"><img src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/btn-portfolio.svg?v=2" height="46" alt="Portfolio: edeveloppe.com" /></a>
-<a href="https://www.linkedin.com/in/clementgenest/"><img src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/btn-linkedin.svg?v=2" height="46" alt="LinkedIn" /></a>
+<a href="https://www.edeveloppe.com/"><img src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/btn-portfolio.svg?v=3" height="46" alt="Portfolio: edeveloppe.com" /></a>
+<a href="https://www.linkedin.com/in/clementgenest/"><img src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/btn-linkedin.svg?v=3" height="46" alt="LinkedIn" /></a>
 
 </div>
 
@@ -14,7 +14,7 @@ As a freelance developer and the founder of eDeveloppe, I help businesses turn i
 My work covers the full delivery cycle, from **frontend and UX** to **backend, APIs, data, automation and deployment**, with a strong focus on **performance, security and long-term maintainability**.
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-do.svg?v=2" alt="Web apps, business tools, APIs and integrations, automation" />
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-do.svg?v=3" alt="Web apps, business tools, APIs and integrations, automation" />
 </div>
 
 ## Core stack
@@ -23,7 +23,9 @@ My work covers the full delivery cycle, from **frontend and UX** to **backend, A
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,nestjs,postgres,prisma,redis,python,go,rust,cs,docker,linux,vercel&theme=dark&perline=8" alt="TypeScript, Next.js, React, Tailwind, Node.js, NestJS, PostgreSQL, Prisma, Redis, Python, Go, Rust, C#, Docker, Linux, Vercel" />
 
-<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-focus.svg?v=2" alt="Technical focus: performance, backend engineering, software architecture, cybersecurity, systems, Web3" />
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-focus.svg?v=3" alt="Technical focus: performance, backend engineering, software architecture, cybersecurity, systems, Web3" />
 
 </div>
 
@@ -34,7 +36,7 @@ I prefer understanding the real need first, then choosing the right architecture
 That means no unnecessary complexity, no trend-driven decisions, and no one-size-fits-all solutions.
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-work.svg?v=2" alt="Business-first thinking, direct collaboration, clear scope, custom development, maintainable code" />
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/pills-work.svg?v=3" alt="Business-first thinking, direct collaboration, clear scope, custom development, maintainable code" />
 </div>
 
 ## GitHub insights
