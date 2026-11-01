@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg" alt="Clément Genest, freelance full-stack developer. Custom web applications, business tools and automation." />
+<img width="100%" src="https://raw.githubusercontent.com/ClementG91/ClementG91/main/assets/header.svg" alt="Clément Genest, freelance full-stack developer. A request travels through interface, services, data and systems layers." />
 
 <br/>
 
